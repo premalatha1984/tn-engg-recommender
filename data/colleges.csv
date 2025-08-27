@@ -1,0 +1,16 @@
+college_code,college_name,district,ownership,hostel_available,rural_support,placement_rate,quality_score,avg_fee
+TN001,College of Engineering Guindy (CEG),Chennai,Government,1,1,0.92,0.95,60000
+TN002,PSG College of Technology,Coimbatore,Private,1,1,0.88,0.9,85000
+TN003,Thiagarajar College of Engineering,Madurai,Government-Aided,1,1,0.86,0.87,70000
+TN004,Government College of Engineering - Salem,Salem,Government,1,1,0.78,0.8,40000
+TN005,Kongu Engineering College,Erode,Private,1,0,0.82,0.82,75000
+TN006,VELS Institute of Science and Technology,Chennai,Private,1,0,0.7,0.7,90000
+TN007,National Engineering College,Tirunelveli,Private,1,1,0.76,0.78,65000
+TN008,Government College of Engineering - Tirunelveli,Tirunelveli,Government,1,1,0.75,0.77,45000
+TN009,Bannari Amman Institute of Technology,Erode,Private,1,0,0.8,0.83,80000
+TN010,Sona College of Technology,Salem,Private,1,0,0.79,0.81,78000
+TN011,Periyar Maniammai Institute,Thanjavur,Private,1,1,0.65,0.68,60000
+TN012,Vellore Institute of Technology,Vellore,Private,1,1,0.9,0.92,195000
+TN013,Government College of Engineering - Trichy,Tiruchirappalli,Government,1,1,0.77,0.8,42000
+TN014,Sri Sairam Engineering College,Chennai,Private,1,0,0.74,0.76,85000
+TN015,Annamalai University - Engg,Chidambaram,Government-Aided,1,1,0.7,0.72,50000
