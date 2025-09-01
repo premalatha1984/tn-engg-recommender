@@ -20,6 +20,10 @@ app.add_middleware(
 
 colleges_df, programs_df, cutoffs_df = load_data(DATA_DIR)
 
+
+@app.get("/")
+def read_root():
+    return {"Hello": "World"}
 @app.get("/api/weights/default")
 def get_default_weights():
     return Weights()
